@@ -13,6 +13,9 @@ Life's Articles is an iOS app for creating a personal, Wikipedia-like archive of
   <img src="https://github.com/user-attachments/assets/e56a794f-9a5b-4d6c-b12b-a9ec1ae87e8d" width="200" />
 </p>
 
+![Platform](https://img.shields.io/badge/platform-iOS%2017.0%2B-blue)
+![Swift](https://img.shields.io/badge/Swift-5.9-orange)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 
 
