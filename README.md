@@ -2,6 +2,20 @@
 
 Life's Articles is an iOS app for creating a personal, Wikipedia-like archive of people, places, and things in your life. Each article supports sections, an infobox, images, internal links, and Markdown import/export.
 
+<p>
+  <img src="https://github.com/user-attachments/assets/eeec76d5-e9e1-44aa-a744-6586fcb1691c" width="200" />
+  <img src="https://github.com/user-attachments/assets/13c376c3-48ed-4cc8-b205-de3e38b788ee" width="200" />
+  <img src="https://github.com/user-attachments/assets/c7565430-bc37-4947-a34f-5c6718315f9d" width="200" />
+  <img src="https://github.com/user-attachments/assets/e3add8b3-daac-4237-b96a-e1cc0d55a1f1" width="200" />
+  <img src="https://github.com/user-attachments/assets/9abe7617-8429-472c-b9b6-6a99d1609534" width="200" />
+  <img src="https://github.com/user-attachments/assets/e134a42a-eaf4-431a-b7bb-7decb2c860c9" width="200" />
+  <img src="https://github.com/user-attachments/assets/96e4327a-d644-451a-a108-bb0b60067873" width="200" />
+  <img src="https://github.com/user-attachments/assets/e56a794f-9a5b-4d6c-b12b-a9ec1ae87e8d" width="200" />
+</p>
+
+
+
+
 ## Features
 - Wikipedia-style read view with sections and infobox
 - Edit mode with section text editing and link creation
