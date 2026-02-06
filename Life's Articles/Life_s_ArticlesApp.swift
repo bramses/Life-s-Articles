@@ -12,7 +12,10 @@ import SwiftData
 struct Life_s_ArticlesApp: App {
     var sharedModelContainer: ModelContainer = {
         let schema = Schema([
-            Item.self,
+            Article.self,
+            ArticleSection.self,
+            InfoboxEntry.self,
+            ArticleLink.self
         ])
         let modelConfiguration = ModelConfiguration(schema: schema, isStoredInMemoryOnly: false)
 
